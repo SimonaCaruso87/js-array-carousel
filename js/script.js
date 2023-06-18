@@ -1,19 +1,8 @@
-//DOBBIAMO MANIPOLARE IL DOM ASSEGNIAMO IN ID ALLA NS IMMAGINE 
-//DOBBIAMO MODIFICARE IL PERCORSO CHE IL NOSTRO TAG IMG HA
-
-// let immagine = 1 ;
-//creiamo una function per creare una funziona specifica 
-// function avanti(){
-//     immagine++;
-//     document.getElementById('slider').src = "img/01("+ immagine +").webp";
-// }
-
-
 const images_array = [
-    '01.webp',
-    '02.webp',
-    '03.webp',
-    '04.webp',
+    '01.gif',
+    '02.jpg',
+    '03.jpg',
+    '04.jpg',
     '05.webp',
 ];
 
