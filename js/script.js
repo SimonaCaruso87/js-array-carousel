@@ -1,6 +1,6 @@
 const images_array = [
     '05.webp',
-    '02.jpg',
+    '06.jpeg',
     '03.jpg',
     '04.jpg',
     '01.gif',

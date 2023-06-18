@@ -51,12 +51,18 @@ body{
 */
 
 .container {
-    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 5px solid blueviolet;
+    max-width: fit-content;
+    padding-top: 10px;
+    padding-bottom: 25px;
 }
 
+.my-text{
+    color: blueviolet;
+}
 .slider {
     width: 50vw;
     height: 50vh;
