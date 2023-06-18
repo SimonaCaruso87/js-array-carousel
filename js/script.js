@@ -1,9 +1,9 @@
 const images_array = [
-    '01.gif',
+    '05.webp',
     '02.jpg',
     '03.jpg',
     '04.jpg',
-    '05.webp',
+    '01.gif',
 ];
 
 let item_content = '';
